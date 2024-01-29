@@ -5,8 +5,13 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sal_Rossy)
 
 
-### Hi there 👋
-**I am Salaheddine EL AROUSY, a full-stack engineer with a specialization in backend development. In addition to my technical skills, I am a creative coder and a beat maker, bringing a unique blend of artistry and innovation to my work.**
+<!-- Header -->
+<h1 align="center" style="color: #2E7D32; font-size: 36px; font-family: 'Linux Biolinum';">👨‍💻 Hi, I'm Salaheddine EL AROUSY!</h1>
+
+<!-- Introduction -->
+<p align="center" style="color: #2E7D32; font-size: 20px;">
+  Passionate full-stack engineer with expertise in backend development. Creative coder and beat maker, blending artistry and innovation into my work.
+</p>
 
 ## 💼 Skills
 
