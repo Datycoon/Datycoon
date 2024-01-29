@@ -6,11 +6,11 @@
 
 
 <!-- Header -->
-<h1 align="center" style="color: #2E7D32; font-size: 36px; font-family: 'Linux Biolinum', sans-serif;">👨‍💻 Hi, I'm Salaheddine EL AROUSY!</h1>
+<h1 align="center" style="color: #2E7D32; font-size: 36px; font-family: 'Linux Biolinum', sans-serif;">👨‍💻 Hi, I'm SALAHEDDINE EL AROUSY!</h1>
 
 <!-- Introduction -->
 <p align="center" style="color: #2E7D32; font-size: 30px; font-family: 'Linux Biolinum', sans-serif; font-weight: bold;">
-  <strong>Passionate full-stack engineer with expertise in backend development. Creative coder and beat maker, blending artistry and innovation into my work.</strong>
+  <strong>Passionate full-stack engineer with a deep expertise in crafting robust backend solutions. As a creative coder and beat maker, I specialize in blending artistry, code, and innovation into my work, creating unique and compelling digital experiences</strong>
 </p>
 
 
