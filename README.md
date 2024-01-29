@@ -9,9 +9,10 @@
 <h1 align="center" style="color: #2E7D32; font-size: 36px; font-family: 'Linux Biolinum';">👨‍💻 Hi, I'm Salaheddine EL AROUSY!</h1>
 
 <!-- Introduction -->
-<p align="center" style="color: #2E7D32; font-size: 24px; font-family: 'Linux Biolinum';">
+<p align="center" style="color: #2E7D32; font-size: 25px;">
   Passionate full-stack engineer with expertise in backend development. Creative coder and beat maker, blending artistry and innovation into my work.
 </p>
+
 
 
 ## 💼 Skills
