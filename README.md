@@ -33,7 +33,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ![Salaheddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=datycoon&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datycoon&layout=pie)](https://github.com/datycoon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datycoon&layout=donut)](https://github.com/datycoon/github-readme-stats)
 
 
 <!--
