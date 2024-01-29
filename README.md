@@ -7,6 +7,10 @@
 
 ### Hi there 👋
 **I am Salaheddine EL AROUSY, a full-stack engineer with a specialization in backend development. In addition to my technical skills, I am a creative coder and a beat maker, bringing a unique blend of artistry and innovation to my work.**
+
+## 💼 Skills
+![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 <!--
 **Datycoon/Datycoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
