@@ -1,11 +1,12 @@
 [![SALAHEDDINE's GitHub Banner](./assets/GitHubHeade.png)](https://www.linkedin.com/in/salaheddine-el-arousy/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salaheddine-el-arousy//)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/salaheddinn//)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salaheddine-el-arousy/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://https://www.instagram.com/salaheddinn/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sal_Rossy)
+
 
 ### Hi there 👋
-I am Salaheddine EL AROUSY, a full-stack engineer with a specialization in backend development. In addition to my technical skills, I am a creative coder and a beat maker, bringing a unique blend of artistry and innovation to my work.
-
+**I am Salaheddine EL AROUSY, a full-stack engineer with a specialization in backend development. In addition to my technical skills, I am a creative coder and a beat maker, bringing a unique blend of artistry and innovation to my work.**
 <!--
 **Datycoon/Datycoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
