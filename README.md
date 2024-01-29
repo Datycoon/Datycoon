@@ -1,6 +1,6 @@
 [![SALAHEDDINE's GitHub Banner](./assets/GitHubHeade.png)](https://www.linkedin.com/in/salaheddine-el-arousy/)
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=https://www.linkedin.com/in/salaheddine-el-arousy/&logoColor=white
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salaheddine-el-arousy//)
 
 ### Hi there 👋
 I am Salaheddine EL AROUSY, a full-stack engineer with a specialization in backend development. In addition to my technical skills, I am a creative coder and a beat maker, bringing a unique blend of artistry and innovation to my work.
