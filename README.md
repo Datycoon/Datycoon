@@ -32,6 +32,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+![Salaeddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=datcoon&theme=algolia&show_icons=true)
+
 <!--
 **Datycoon/Datycoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
