@@ -1,4 +1,4 @@
-[![SALAHEDDINE's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/salaheddine-el-arousy/)
+[![SALAHEDDINE's GitHub Banner](./assets/GitHubHeade.png)](https://www.linkedin.com/in/salaheddine-el-arousy/)
 
 
 ### Hi there 👋
